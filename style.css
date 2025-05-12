@@ -233,8 +233,6 @@ footer {
     }
 }
 
-/* Adicione estas regras ao seu style.css */
-
 /* Menu Mobile - Responsividade */
 @media (max-width: 768px) {
     header .container-header {
