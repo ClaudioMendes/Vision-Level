@@ -1,4 +1,3 @@
-// Substitua o código atual do menu-toggle por este:
 document.querySelector('.menu-toggle').addEventListener('click', () => {
     const nav = document.querySelector('nav ul');
     nav.classList.toggle('show');
